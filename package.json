@@ -6,7 +6,7 @@
   "version": "0.0.1",
   "publisher": "Gautham",
   "engines": {
-    "vscode": "^1.18.0"
+    "vscode": "^1.12.0"
   },
   "categories": ["Other"],
   "activationEvents": ["onCommand:extension.darwin-search"],
