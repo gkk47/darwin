@@ -2,7 +2,7 @@
 
 VS code plugin that assists javscript developers by providing an in editor browser with access to youtube and Mozilla documentation
 
-Compatible with version >= 1.12
+Compatible with version >= 0.10
 
 ## Usage:
 
