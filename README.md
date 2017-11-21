@@ -4,6 +4,6 @@ VS code plugin that assists javscript developers by providing an in editor brows
 
 Compatible with version >= 1.12
 
-#Usage
+Usage:
 Mac: Cmd+Shift+P and enter darwin-search
 Windows: Ctrl+Shift+P and enter darwin-search
