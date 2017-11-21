@@ -1,9 +1,10 @@
 {
   "name": "darwin-coding-evolved",
   "displayName": "darwin-coding-evolved",
-  "description": "A simple plugin to assist with javascript features",
+  "description":
+    "A simple sidekick extension that assists with javascript development",
   "version": "0.0.1",
-  "publisher": "Darwin",
+  "publisher": "Gautham",
   "engines": {
     "vscode": "^1.18.0"
   },

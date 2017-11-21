@@ -1,3 +1,9 @@
-# Darwin README
+# Darwin 
 
-VS code plugin that assists developers.
+VS code plugin that assists javscript developers by providing an in editor browser with access to youtube and Mozilla documentation
+
+Compatible with version 1.18
+
+##Usage
+Mac: Cmd+Shift+P and enter darwin-search
+Windows: Ctrl+Shift+P and enter darwin-search
