@@ -3,7 +3,7 @@
   "displayName": "darwin-coding-evolved",
   "description":
     "A simple sidekick extension that assists with javascript development",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "darwintools",
   "engines": {
     "vscode": "^0.10.11"
