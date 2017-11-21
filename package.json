@@ -3,11 +3,12 @@
   "displayName": "darwin-coding-evolved",
   "description":
     "A simple sidekick extension that assists with javascript development",
-  "version": "0.0.1",
-  "publisher": "Gautham",
+  "version": "0.0.2",
+  "publisher": "darwintools",
   "engines": {
-    "vscode": "^1.12.0"
+    "vscode": "^0.10.11"
   },
+  "icon": "resources/icon.png",
   "categories": ["Other"],
   "activationEvents": ["onCommand:extension.darwin-search"],
   "main": "./out/extension",
